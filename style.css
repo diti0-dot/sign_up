@@ -1,7 +1,7 @@
-/* Add the Norse Bold font */
+
 @font-face {
     font-family: 'Norse Bold';
-    src: url('Norse-Bold.otf') format('woff');
+    src: url('files/Norse-Bold.otf') format('woff');
 }
 
 body {
